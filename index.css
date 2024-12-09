@@ -15,7 +15,7 @@ h1 {
   font-family: "Playwrite Au tas";
 }
 h1 span {
-  color: blueviolet;
+  color: rgb(219, 67, 67);
 }
 
 p {
@@ -26,7 +26,7 @@ margin-bottom: 4.5rem;
 }
 
 a {
-background-color: blueviolet;
+background-color: rgb(219, 67, 67);
 color: bisque;
 text-decoration: none;
 padding: 1rem 2rem;
@@ -37,14 +37,14 @@ transition: background-color 400ms;
 
 a:hover
 {
-  background-color: rgb(172, 111, 228);
+  background-color: rgb(227, 119, 119);
 }
 
 #bg-image {
-  background-image: url("https://static.vecteezy.com/ti/fotos-gratis/t1/26649418-ai-gerado-ai-generativo-chocolate-torta-bolo-deserto-bown-assar-acucar-doce-organico-comida-tarde-festa-aniversario-fundo-grafico-arte-foto.jpg");
+  background-image: url("https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/10/dia-da-pizza-skkhweuqjcrq.jpg");
 
   background-position: center;
-background-size: contain;
+background-size: cover;
 background-repeat: no-repeat;
   
   opacity: 0.3;
